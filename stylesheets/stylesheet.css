@@ -301,10 +301,10 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #F5F6CE;
+  color: #E6E6E6;
   font-family:"Microsoft YaHei";
   font-size: 42px;
-  font-weight: 700;
+  font-weight: 300;
   text-shadow: #111 0px 0px 10px;
 }
 
