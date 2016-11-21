@@ -301,16 +301,16 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #FF0000;
-  font-family: Helvetica;
+  color: #F5F6CE;
+  font-family:SimHei;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
-  color: #FF0000;
-  font-family: Helvetica;
+  color: #F5F6CE;
+  font-family:SimHei;
   font-size: 24px;
   font-weight: 300;
   background: none;
